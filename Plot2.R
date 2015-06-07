@@ -1,4 +1,4 @@
-###Plot2####
+###plot2####
 
 ##load data##
 library(sqldf)
